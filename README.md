@@ -1,6 +1,10 @@
 # bobuino
 atmega 1284 arduino compatible
 
+![](IMG/bobuino1.jpg)
+
+![](IMG/bobuino2.jpg)
+
 rev1 (/v1backup)
 - U5 vcc and gnd are inverted !!!
 
