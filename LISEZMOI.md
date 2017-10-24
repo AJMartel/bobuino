@@ -3,9 +3,20 @@
 # bobuino
 Carte compatible Arduino à base d'atmega 1284 arduino
 
+fonctionalités:
+
+- carte microSD
+- afficheur lcd 82x48 pixels
+- encodeur rotatif
+- wifi esp8266
+
 ![](IMG/bobuino1.jpg)
 
 ![](IMG/bobuino2.jpg)
+
+![](IMG/sch.png)
+
+## Versions
 
 rev1 (/v1backup)
 - sur U5 vcc et gnd sont inversés !!!
