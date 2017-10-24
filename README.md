@@ -31,5 +31,9 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 * After installation is complete close the **Boards Manager** window.
 
 #### Manual Installation
+On https://github.com/MCUdude/MightyCore , 
 Click on the "Download ZIP" button. Extract the ZIP file, and move the extracted folder to the location "**~/Documents/Arduino/hardware**". Create the "hardware" folder if it doesn't exist.
 Open Arduino IDE, and a new category in the boards menu called "MightyCore" will show up.
+
+### Configuration
+![](IMG/ArduinoIDEBobuino.PNG)
