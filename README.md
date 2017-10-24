@@ -1,3 +1,5 @@
+[:fr:](LISEZMOI.md) [:uk:](README.md)
+
 # bobuino
 atmega 1284 arduino compatible
 
