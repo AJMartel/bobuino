@@ -1,3 +1,5 @@
+[:fr:](LISEZMOI.md) [:uk:](README.md)
+
 # bobuino
 Carte compatible Arduino à base d'atmega 1284 arduino
 
