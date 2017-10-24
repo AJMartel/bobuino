@@ -35,4 +35,5 @@ Sur https://github.com/MCUdude/MightyCore
 Cliquez sur le bouton "Download ZIP" . Extraire le fichier ZIP, et déplacer le répertoire dans "**~/Documents/Arduino/hardware**". Créer le répertoire "hardware" s'il n'existe pas.
 Ouvrir l'IDE Arduino, dans le menu type de carte, une novelle catégorie appelée "MightyCore" apparai.
 
+### Configuration
 ![](IMG/ArduinoIDEBobuino.PNG)
