@@ -3,9 +3,20 @@
 # bobuino
 atmega 1284 arduino compatible
 
+fonctionalités:
+
+- microSD card
+- lcd display 82x48 pixels
+- rotary encoder
+- wifi esp8266
+
 ![](IMG/bobuino1.jpg)
 
 ![](IMG/bobuino2.jpg)
+
+![](IMG/sch.png)
+
+## Revisions
 
 rev1 (/v1backup)
 - U5 vcc and gnd are inverted !!!
