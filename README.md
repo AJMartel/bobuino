@@ -3,7 +3,7 @@
 # bobuino
 atmega 1284 arduino compatible
 
-fonctionalités:
+features:
 
 - microSD card
 - lcd display 82x48 pixels
