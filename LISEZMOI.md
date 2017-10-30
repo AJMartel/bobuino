@@ -46,7 +46,7 @@ Cette methode d'installation requier la version 1.6.4 'ou supperieur) de l'IDE A
 #### Installation manuelle
 Sur https://github.com/MCUdude/MightyCore
 Cliquez sur le bouton "Download ZIP" . Extraire le fichier ZIP, et déplacer le répertoire dans "**~/Documents/Arduino/hardware**". Créer le répertoire "hardware" s'il n'existe pas.
-Ouvrir l'IDE Arduino, dans le menu type de carte, une novelle catégorie appelée "MightyCore" apparai.
+Ouvrir l'IDE Arduino, dans le menu type de carte, une novelle catégorie appelée "MightyCore" apparaît.
 
 ### Configuration
 ![](IMG/ArduinoIDEBobuino.PNG)
