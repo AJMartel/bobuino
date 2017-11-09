@@ -3,6 +3,8 @@
 # bobuino
 atmega 1284 arduino compatible
 
+design inspired from ![Croos Road Fencing Center](http://www.crossroadsfencing.com/BobuinoRev17/) work
+
 features:
 
 - microSD card
