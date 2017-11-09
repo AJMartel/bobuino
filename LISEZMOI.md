@@ -3,6 +3,9 @@
 # bobuino
 Carte compatible Arduino à base d'atmega 1284 arduino
 
+
+conception inspirée du travail du [Croos Road Fencing Center](http://www.crossroadsfencing.com/BobuinoRev17/)
+
 fonctionalités:
 
 - carte microSD
