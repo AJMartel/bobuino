@@ -3,7 +3,7 @@
 # bobuino
 atmega 1284 arduino compatible
 
-design inspired from [Croos Road Fencing Center](http://www.crossroadsfencing.com/BobuinoRev17/) work
+design inspired of [Croos Road Fencing Center](http://www.crossroadsfencing.com/BobuinoRev17/) work
 
 features:
 
